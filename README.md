@@ -1,7 +1,6 @@
 <div align="center"><h1>Projeto Template Card  </h1></div>
 
-![designer card QR code](https://user-images.githubusercontent.com/105744700/194186295-6c88465d-63ee-4f57-93c8-b01c4780b87a.jpg)
-
+![desktop-design](https://user-images.githubusercontent.com/105744700/194192559-9968682a-2c1f-4b72-8df5-58b6186ecf4a.jpg)
 <br>
 <br>
 <h2>📃 Sobre o Projeto</h2>
